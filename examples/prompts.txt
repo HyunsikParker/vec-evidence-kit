@@ -1,0 +1,2 @@
+Synthetic example only: demonstrate byte-preserving evidence packaging.
+No model, competition data, held-out target or biological prediction is used.

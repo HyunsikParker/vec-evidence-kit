@@ -1,0 +1,8 @@
+{
+  "framework": "synthetic-example-only",
+  "model": "no-model-called",
+  "budget": {"usd": 0},
+  "tools": ["none"],
+  "permissions": {"network": false},
+  "purpose": "Packaging demonstration, not an Agent Team competition run"
+}
